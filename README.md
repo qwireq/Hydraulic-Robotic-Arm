@@ -1,1 +1,1 @@
-Course projects done during education.
+The course project done with Arduino microcontroller.
